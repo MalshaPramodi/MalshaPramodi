@@ -10,3 +10,5 @@
 - 👯 I’m looking to collaborate on exciting open-source projects & impactful software solutions
 - ⚡ I love exploring new tech trends, and I occasionally dabble in competitive coding
 
+## 🚀 Let's Connect!  
+[[LinkedIn](https://www.linkedin.com/in/malsha-pramodi-2a2535268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
