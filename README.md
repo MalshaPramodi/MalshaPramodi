@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me  
 💡 Passionate Software Engineer in the making | Tech Enthusiast | Problem Solver  
-🎓 Currently pursuing BSc Eng (Hons) in Computer Engineering at University of Sri Jayewardenepura 
+🎓 Currently pursuing BSc Eng (Hons) in Computer Engineering at University of Sri Jayewardenepura   
 🔥 Exploring the world of Full-Stack Development, AI/ML, and Cloud Computing 
 
 - 🔭 I’m currently working on building innovative software solutions.
